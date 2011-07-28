@@ -1,0 +1,1 @@
+spy: sh target/bin/spy
